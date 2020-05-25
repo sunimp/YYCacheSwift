@@ -22,7 +22,7 @@ pod 'YYCacheSwift'
 
 ## Author
 
-杨光, guang.yang@qingclass.com
+杨光, holaux@gmail.com
 
 ## License
 

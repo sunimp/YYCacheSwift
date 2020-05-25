@@ -1,0 +1,16 @@
+PODS:
+  - YYCacheSwift (1.0.0)
+
+DEPENDENCIES:
+  - YYCacheSwift (from `../`)
+
+EXTERNAL SOURCES:
+  YYCacheSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYCacheSwift: 359b3df327ee2afa541c1c412a37b71bf120e700
+
+PODFILE CHECKSUM: d88e3ab8c429f5ca51ca7cfb741aa4af2579ca67
+
+COCOAPODS: 1.9.1

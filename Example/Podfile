@@ -1,11 +1,14 @@
-use_frameworks!
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
 
-target 'YYCacheSwift_Example' do
+target 'Example_iOS' do
+  
+  use_frameworks!
+  
   pod 'YYCacheSwift', :path => '../'
 
   target 'YYCacheSwift_Tests' do
     inherit! :search_paths
-
-    
   end
+  
 end
